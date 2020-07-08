@@ -2,5 +2,5 @@
 
 <h2> .NET </h2>
 <ul>
-  <li><a href="/.NET/2020_07_08">2020_07_08</a></li>
+  <li><a href="/.NET/2020_07_08.md">EntityFramework Core</a></li>
 </ul>
