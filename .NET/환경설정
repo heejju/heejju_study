@@ -1,0 +1,14 @@
+<p>2020.07.08</p>
+
+<h2>ASP.NET MVC</h2>
+
+<h3>EntityFramework Core로 데이터베이스 생성하기</h3>
+<pre>
+  1. 프레임워크 업그레이드 : ASP.NET MVC Core 업그레이드
+  
+  2. EntityFramework Core 설치
+  
+  3. DbContext 생성 : table을 생성할 수 있는 코드 작성
+  
+  4. DbContext : 실제 table 생성
+</pre>
