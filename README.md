@@ -8,5 +8,5 @@
 
 <h2> IMPACT FACTORY </h2>
 <ul>
-  <li><a herf="/IF/2020_07_18.md">1주차</li>
+  <li><a herf="/IF/2020_07_18.md">1주차</a></li>
 </ul>
