@@ -4,3 +4,9 @@
 <ul>
   <li><a href="/.NET/2020_07_08.md">EntityFramework Core</a></li>
 </ul>
+
+
+<h2> IMPACT FACTORY </h2>
+<ul>
+  <li><a herf="/IF/2020_07_18.md">1주차</li>
+</ul>
